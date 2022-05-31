@@ -1,4 +1,4 @@
-# Webhook Deleter
+# Webhook-Deleter
 
 Setup:
 
